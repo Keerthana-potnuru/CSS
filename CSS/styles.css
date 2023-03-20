@@ -1,11 +1,9 @@
 body{
     background-color: #E4F9F5;
+    text-align: center;
 }
 
 .heading{
-    width: 200px;
-    height: 200px;
-    border: solid 10px;
-    padding: 20px;
-    background-color:steelblue ;
+    
+    
 }
