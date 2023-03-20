@@ -9,19 +9,3 @@ body{
     padding: 20px;
     background-color:steelblue ;
 }
-
-.heading2{
-    background-color: red;
-    margin-left: 260px;
-    width: 200px;
-    height: 200px;
-    border: solid 20px;
-}
-
-.heading3{
-    background-color: green;
-    margin-left: 500px;
-    width: 200px;
-    height: 200px;
-    border: solid 10px;
-}
