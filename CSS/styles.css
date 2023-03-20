@@ -1,11 +1,12 @@
 body{
-    background-color: #E4F9F5;
+    
     text-align: center;
 }
 
 .heading{
-    
+    background-color: #E4F9F5;
     margin-top: 0;
+
 }
 
 .bottom-cloud{
