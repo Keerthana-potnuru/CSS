@@ -6,9 +6,18 @@ body{
 .heading{
     background-color: #E4F9F5;
     margin-top: 0;
-
+    position: relative;
+    padding-top: 100px;
 }
 
 .bottom-cloud{
     position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
