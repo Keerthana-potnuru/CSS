@@ -5,5 +5,9 @@ body{
 
 .heading{
     
-    
+    margin-top: 0;
+}
+
+.bottom-cloud{
+    position: absolute;
 }
